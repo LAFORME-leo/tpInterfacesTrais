@@ -35,7 +35,7 @@ foreach ($carnivors as $Animal)
     }
 }
 
-echo "\n Les Carniors :\n";
+echo "\n Les Carnivors :\n";
 foreach ($carnivors as $Animal)
 {
     if($Animal instanceof Ipredateur) 
